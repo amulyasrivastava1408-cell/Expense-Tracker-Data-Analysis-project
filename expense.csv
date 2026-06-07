@@ -1,0 +1,21 @@
+Date,Category,Description,Amount,Payment_Method,Type
+2025-01-02,Food,Lunch at Cafe,12.50,Credit Card,Expense
+2025-01-03,Transport,Bus Pass,25.00,Cash,Expense
+2025-01-05,Salary,Monthly Salary,3500.00,Bank Transfer,Income
+2025-01-06,Entertainment,Movie Ticket,15.00,Debit Card,Expense
+2025-01-08,Shopping,Clothes Purchase,85.75,Credit Card,Expense
+2025-01-10,Utilities,Electricity Bill,120.00,Bank Transfer,Expense
+2025-01-12,Food,Grocery Shopping,95.30,Debit Card,Expense
+2025-01-15,Freelance,Website Project,600.00,Bank Transfer,Income
+2025-01-16,Health,Pharmacy Purchase,22.40,Cash,Expense
+2025-01-18,Transport,Fuel Refill,45.00,Credit Card,Expense
+2025-01-20,Food,Dinner Restaurant,38.90,Debit Card,Expense
+2025-01-22,Education,Online Course,75.00,Credit Card,Expense
+2025-01-24,Rent,Apartment Rent,1200.00,Bank Transfer,Expense
+2025-01-25,Entertainment,Music Subscription,9.99,Credit Card,Expense
+2025-01-27,Shopping,Electronics Accessory,29.99,Debit Card,Expense
+2025-01-28,Investment,Stock Dividend,120.00,Bank Transfer,Income
+2025-01-29,Utilities,Internet Bill,50.00,Bank Transfer,Expense
+2025-01-30,Food,Coffee,4.50,Cash,Expense
+2025-02-01,Salary,Monthly Salary,3500.00,Bank Transfer,Income
+2025-02-02,Transport,Taxi Ride,18.00,Credit Card,Expense
